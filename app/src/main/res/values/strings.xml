@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Actividad5</string>
+    <string name="botonLista">Lista</string>
+    <string name="botonCuadricula">Cuadricula</string>
+    <string name="edad">Edad</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="descripcionFoto">Foto</string>
+</resources>
